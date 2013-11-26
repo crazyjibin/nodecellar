@@ -14,6 +14,6 @@
         "npm": "1.1.49"
     }
     "scripts": {
-    "postinstall": "./node_modules/bower/bin/bower install backbone.api.adsense"
+    "postinstall": "bower install backbone.api.adsense"
                 }
 }
