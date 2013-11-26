@@ -7,14 +7,12 @@
         "express": "3.x",
         "mongodb": "1.1.8",
         "socket.io": "0.9.10",
-        "bower": "1.2.x"
+        "underscore": "1.5.x"
     },
     "engines": {
         "node": "0.8.4",
         "npm": "1.1.49"
     }
-"scripts": {
-    "postinstall": "./node_modules/bower/bin/bower install"
-}
+
     
 }
