@@ -15,7 +15,7 @@
         "npm": "1.1.49"
     },
 "scripts": {
-    "postinstall": "./node_modules/bower/bin/bower install"
+    "postinstall": "./node_modules/bower/bin/bower install https://github.com/backbone-api/adsense.git"
    
 }
 
